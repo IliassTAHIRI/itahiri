@@ -19,6 +19,14 @@ The following is a code sample using triple backticks ( ``` ) code fencing provi
     alert("Sum = " + sum)  // "+" means combine into a string
 ```
 
+```python
+    import numpy
+    import matplotlib as m
+    import math as m
+    from math import *
+
+    print("30+30")
+```
 
 The following is a code sample using the "highlight" shortcode provided in Hugo. This is server side highlighting and requires Python and Pygments to be installed.
 

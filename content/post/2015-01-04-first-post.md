@@ -16,7 +16,9 @@ date: 2015-01-05
 
 ## Publications
 
-[1](https://ascelibrary.org/doi/abs/10.1061/9780784480779.034?src=recsys) *"Elastic and Filtration Properties of Coal by Adsorption Test Data Based on Inverse Problem Solution"* - Leonid A. Nazarov, D.Sc.; Larisa A. Nazarova, D.Sc.; Matthieu Vandamme, Ph.D.; Jean-Michel Pereira, Ph.D.; and Iliass Tahiri - Poromechanics VI : Proceedings of the Sixth Biot Conference on Poromechanics . 2017
+[1](https://ascelibrary.org/doi/abs/10.1061/9780784480779.034?src=recsys) *"Elastic and Filtration Properties of Coal by Adsorption Test Data Based on Inverse Problem Solution"*
+Leonid A. Nazarov, D.Sc.; Larisa A. Nazarova, D.Sc.; Matthieu Vandamme, Ph.D.; Jean-Michel Pereira, Ph.D.; and Iliass Tahiri
+Poromechanics VI : Proceedings of the Sixth Biot Conference on Poromechanics . 2017
 
 
 ## Skills

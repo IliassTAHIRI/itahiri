@@ -4,10 +4,8 @@ subtitle: Brief history of (my) time
 comments: false
 ---
 
-My name is Iliass TAHIRI:
+My name is **Iliass TAHIRI**
 
--
--
 
 What else do you need?
 
