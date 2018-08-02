@@ -13,6 +13,11 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
