@@ -1,4 +1,4 @@
-baseurl = "https://iliass.netlify.com"
+baseurl = "https://iliass.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
