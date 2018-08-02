@@ -2,7 +2,7 @@
 title: CV
 date: 2015-01-05
 ---
-
+<!--more-->
 ## Education
 
 - Mohammadia School of engineers            - Master   - 2011 to 2014
