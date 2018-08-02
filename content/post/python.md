@@ -1,7 +1,7 @@
 ---
-title: "Python"
+title: "Python Py"
 date: 2018-08-02T22:56:18+02:00
-subtitle: ""
+subtitle: "The language of the future"
 tags: []
 ---
 
@@ -17,6 +17,6 @@ My first code in this blog.
 
     a=10
     b=90
-    for i in range(1,100):
+    for i in range(1,5):
       print(i) # print function
 ```
