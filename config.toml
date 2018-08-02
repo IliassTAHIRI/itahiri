@@ -12,11 +12,6 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -43,28 +38,31 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
-[Params]
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-[Params]
-    custom_css = ["css/custom.css"]
 
-    
 [Author]
   name = "Some Person"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
+  facebook = "username"
+  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
+  gitlab = "username"
+  bitbucket = "username"
   twitter = "username"
+  reddit = "username"
   linkedin = "username"
+  xing = "username"
   stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
   instagram = "username"
   youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
   spotify = "username"
-
+  bandcamp = "username"
+  itchio = "username"
+  vk = "username"
+  paypal = "username"
+  telegram = "username"
 
 [[menu.main]]
     name = "Blog"
