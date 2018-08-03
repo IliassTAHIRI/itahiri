@@ -17,8 +17,8 @@ tags: []
 
 ## Experience
 
-- Geotechnical and civil engineer - **Structure & Réhabilitation** - Jan. 2017 to Nov. 2018
-- Civil engineer - **Department of water - Morocco** - Jan. 2015 to Sep. 2015
+- Geotechnical and civil engineer - *Structure & Réhabilitation* - Jan. 2017 to Nov. 2018
+- Civil engineer - *Department of water - Morocco* - Jan. 2015 to Sep. 2015
 
 ## Publications
 
