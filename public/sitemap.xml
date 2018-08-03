@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/cv/</loc>
+    <lastmod>2018-08-02T23:27:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/python/</loc>
+    <lastmod>2018-08-02T22:56:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -64,7 +74,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-02T23:27:15+02:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +118,7 @@
   
   <url>
     <loc>/page/</loc>
+    <lastmod>2018-08-02T23:27:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +136,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-02T22:56:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   

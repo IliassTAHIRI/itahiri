@@ -41,28 +41,30 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Iliass TAHIRI"
-  website = "yourwebsite.com"
+  website = "iliass.netlify.com"
   email = "iliass.tahiri@gmail.com"
   #facebook = "username"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
-  gitlab = "username"
-  bitbucket = "username"
+#  gitlab = "username"
+#  bitbucket = "username"
   twitter = "username"
-  reddit = "username"
+#  reddit = "username"
   linkedin = "username"
-  xing = "username"
+#  xing = "username"
   stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
+#  snapchat = "username"
   instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Blog"
@@ -72,7 +74,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     identifier = "samples"
@@ -97,10 +99,6 @@ pygmentsCodefencesGuessSyntax = true
     url = "post/2016-03-08-code-sample"
     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
 [[menu.main]]
     name = "CV"
     url = "page/cv/"

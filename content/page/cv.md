@@ -8,11 +8,12 @@ tags: []
 
 ## Education
 
-- Mohammadia School of engineers            - Master   - 2011 to 2014\
-- Ecole des Ponts Paristech                 - Research - 2015 to 2016\
+- *"Mohammadia School of engineers"*           - Master   - 2011 to 2014\
+- *"Ecole des Ponts Paristech"*                - Research - 2015 to 2016\
   Materiels science for sustainable construction\\
   Grant by *Chaire Ecole des Pont - LafargeHolcim*\
-- *"Ecole des Ponts Paristech & LafargeHolcim"* - PhD - 2018 to current
+- *"Ecole des Ponts Paristech & LafargeHolcim"* - PhD - 2018 to current\\
+  Freeze-thaw resistance of [porous concrete](https://en.wikipedia.org/wiki/Pervious_concrete).
 
 ## Experience
 
