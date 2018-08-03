@@ -42,7 +42,7 @@ rc('text', usetex=True)
 
 
 ```python
-Emax = 5
+Emax = 10
 xmin = -2
 Lmax = 5
 def psi(n, x, L):

@@ -14,10 +14,10 @@
     
     <item>
       <title>Math Sample</title>
-      <link>/post/2017-03-05-math-sample/</link>
+      <link>/post_examples/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
-      <guid>/post/2017-03-05-math-sample/</guid>
+      <guid>/post_examples/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
 &lt;p&gt;$$
