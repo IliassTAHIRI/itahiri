@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>iliass.tahiri@gmail.com (Iliass TAHIRI)</managingEditor>
     <webMaster>iliass.tahiri@gmail.com (Iliass TAHIRI)</webMaster>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Molecular simulations</title>
+      <link>/post/molecular-simulations/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
+      <guid>/post/molecular-simulations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Porous concrete, a state of art</title>
@@ -29,7 +38,7 @@
       <pubDate>Thu, 02 Aug 2018 23:27:15 +0200</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/page/cv/</guid>
-      <description>Education  &amp;ldquo;Mohammadia School of engineers&amp;rdquo; - Master - 2011 to 2014
+      <description>Education  Mohammadia School of engineers - Master - 2011 to 2014
  &amp;ldquo;Ecole des Ponts Paristech&amp;rdquo; - Research - 2015 to 2016
 Materiels science for sustainable construction
 Grant by Chaire Ecole des Pont - LafargeHolcim
@@ -144,9 +153,9 @@ $$&lt;/p&gt;
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/post_examples/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>

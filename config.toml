@@ -16,7 +16,8 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Welcome"
-  logo = "img/avatar-icon.png"
+  #logo = "img/avatar-icon.png"
+  logo = "img/logo.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2017"
   commit = false

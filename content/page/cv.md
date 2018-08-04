@@ -8,7 +8,7 @@ tags: []
 
 ## Education
 
-- *"Mohammadia School of engineers"*           - Master   - 2011 to 2014\
+- *Mohammadia School of engineers*           - Master   - 2011 to 2014\
 - *"Ecole des Ponts Paristech"*                - Research - 2015 to 2016\
   Materiels science for sustainable construction\\
   Grant by *Chaire Ecole des Pont - LafargeHolcim*\
