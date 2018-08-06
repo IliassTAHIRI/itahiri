@@ -29,5 +29,5 @@ Poromechanics VI : Proceedings of the Sixth Biot Conference on Poromechanics . 2
 
 ## Skills
 
-- Programming : Python, C++
+- Programming : Python, C++, R
 - Civil engineering : CESAR 2D & 3D, Plaxis, Robot Structural Analysis...
