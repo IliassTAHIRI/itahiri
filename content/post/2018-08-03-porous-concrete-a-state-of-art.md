@@ -27,7 +27,7 @@ This article contains a brief introduction about pervious concrete. This article
 - limit the quantities of water in sewers\\
 - lower the quantities of water treatment\\
 
-#### Pervious concrete composition :
+#### Pervious concrete composition
 Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\
 
