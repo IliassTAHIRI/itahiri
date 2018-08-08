@@ -12,7 +12,7 @@ My first code in this blog.
 The formula : \
 
 $$
-a=\frac{1}{\pi}*\int_{I}{b}{x dx}
+a=\frac{1}{\pi^2}*\int_{I}{b}{x dx}
 $$
 
 

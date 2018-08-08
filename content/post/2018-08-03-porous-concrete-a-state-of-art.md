@@ -18,7 +18,7 @@ This article contains a brief introduction about pervious concrete. This article
 - Undertake a thorough bibliographic study to asses the state of the art;\\
 - Understand how damage occurs;\\
 - Build a model that capture the mechanisms of damage in pervious concrete;\\
-- Design experiments that can lead to a significant understanding of the physical phenomenas involved in the process.
+- Design experiments that can lead to a significant understanding of the physical phenomena involved in the process.
 
 #### A recurrent question : Why porous concrete ?
 <!-- Not as many people think, the permeable concrete is an old civil engineering material. In fact, research on this matter seriously tens of years ago. B -->
@@ -34,5 +34,6 @@ Single-sized aggregate : The secret behind obtaining a porous concrete is the fa
 #### Pervious concrete durability challenges
 
 This very useful material is subject to several durability challenges,.
+
 
 **To be continued...**
