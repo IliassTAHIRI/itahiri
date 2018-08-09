@@ -27,13 +27,15 @@ This article contains a brief introduction about pervious concrete. This article
 - limit the quantities of water in sewers\\
 - lower the quantities of water treatment\\
 
-#### Pervious concrete composition
-Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\\
+#### Pervious concrete general characteristics
+Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\
-
+The porosity of pervious concrete is in the range of :
 #### Pervious concrete durability challenges
 
-This very useful material is subject to several durability challenges,.
+This very useful material is subject to several durability challenges. The most important ones are :\\
 
+- Freeze-thaw resistance
+- 
 
 **To be continued...**
