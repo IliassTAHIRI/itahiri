@@ -7,27 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>iliass.tahiri@gmail.com (Iliass TAHIRI)</managingEditor>
     <webMaster>iliass.tahiri@gmail.com (Iliass TAHIRI)</webMaster>
-    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Molecular simulations</title>
-      <link>/post/molecular-simulations/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
-      <guid>/post/molecular-simulations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Porous concrete, a state of art</title>
+      <title>Porous concrete, Introduction</title>
       <link>/post/porous-concrete-a-state-of-art/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/post/porous-concrete-a-state-of-art/</guid>
-      <description>&lt;p&gt;A state of the art : Pervious concrete&lt;/p&gt;
+      <description>&lt;p&gt;Pervious concrete : Introduction&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
