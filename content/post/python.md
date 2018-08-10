@@ -32,7 +32,7 @@ The result is 233168.
 Many method exists to simple or complex equation in python. The Sympy library is one of many possible ways to solve an equation. Lets solve the equation that follows for x.
 
 $$
-x^2+x+1=0
+x^2-100=0
 $$
 
 ```python
