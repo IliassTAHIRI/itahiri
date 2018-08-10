@@ -59,7 +59,7 @@ import matplotlib.pyplot as plt
 
 year=[1950,1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2016,2017,2018]
 
-population = [8985989,10502666,12328532,14229044,16000008,17803698,20019847,	22537376,24879136,27075232,28849621,30521070,32409639,34803322,35276786,	35739580, 	36191805]
+population = [8985989,10502666,12328532,14229044,16000008,17803698,20019847,22537376,24879136,27075232,28849621,30521070,32409639,34803322,35276786,	35739580,36191805]
 
 plt.xlabel('Year')
 plt.ylabel('Population')
@@ -69,4 +69,9 @@ plt.plot(year,population)
 ```
 
 
-![Plot](public/img/first_post.png)
+<div class="figure"><span id="fig:pie"></span>
+<img src="f.png" alt="" width="672" />
+<p class="caption">
+Figure 1: Population of Morocco through the years.
+</p>
+</div>
