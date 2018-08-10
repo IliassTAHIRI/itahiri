@@ -43,4 +43,5 @@ Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder,
 This very useful material is subject to several durability challenges.
 -->
 
+Through this blog, I will try to provide a very coherent story of my work, my ideas and my findings. The next step is this journey is to define the project, therefore the next article title will be : **Porous concrete, a state of the art** 
 **To be continued...**
