@@ -1,6 +1,6 @@
 ---
 title: Porous concrete, Introduction
-author: ~
+author: Iliass TAHIRI
 date: '2018-08-03'
 slug: porous-concrete-a-state-of-art
 categories: []
@@ -11,22 +11,28 @@ subtitle: ''
 Pervious concrete : Introduction
 
 <!--more-->
-
-This article contains a brief introduction about pervious concrete. This article is motivated by the fact that in November 2018 I will begin a new challenge which is doing a PhD. My research project is **"Freeze-thaw resistance of porous concrete"**, this project is initiated by **Laboratoire NAVIER** et **Lafarge-Holcim**. The main aim of the research project is to understand the mechanisms involved in the process of damage that occurs when the pervious concrete is subject to freeze-thaw cycles. The main steps of this work :\
-
+<div style="text-align: justify">  
+This article contains a brief introduction about pervious concrete. This article is motivated by the fact that in November 2018 I will begin a new challenge which is doing a PhD. My research project is **"Freeze-thaw resistance of porous concrete"**, this project is initiated by **[Laboratoire NAVIER](navier.enpc.fr)** et **Lafarge-Holcim**. The main aim of the research project is to understand the mechanisms involved in the process of damage that occurs when the pervious concrete is subject to freeze-thaw cycles. The main steps of this work :\
+</div>
 - Understand the problem in hand;\\
 - Undertake a thorough bibliographic study to asses the state of the art;\\
 - Understand how damage occurs;\\
 - Build a model that capture the mechanisms of damage in pervious concrete;\\
-- Design experiments that can lead to a significant understanding of the physical phenomena involved in the process.
+- Design experiments that can lead to a significant understanding of the physical phenomena involved in the process;\\
+- Improve the mix design.
 
 #### A recurrent question : Why porous concrete ?
-<!-- Not as many people think, the permeable concrete is an old civil engineering material. In fact, research on this matter seriously tens of years ago. B -->
-
+<!-- Not as many people think, the permeable concrete is an old civil engineering material. In fact, research on this matter seriously tens of years ago. -->
+<div style="text-align: justify">
+Urbanization led to the increasing impervious areas, which stop the infiltration of rainfall into the soil. Porous concrete can present several advantages which are: \
+</div>
 - Drainage of water in case of flood\\
-- limit the quantities of water in sewers\\
+- Reduce the runoff volume\\
 - lower the quantities of water treatment\\
+- Recharging the groundwater\\
+- Reduce vehicles noise.
 
+<<<<<<< HEAD
 #### Pervious concrete general characteristics
 Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\
@@ -34,8 +40,16 @@ The porosity of pervious concrete is in the range of :
 #### Pervious concrete durability challenges
 
 This very useful material is subject to several durability challenges. The most important ones are :\\
+=======
+#### Pervious concrete composition
+
+This type of concrete is very similar to the normal concrete, the main difference is that PC contains little or no fine aggregate.\\
+Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\\
+Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.
+>>>>>>> a69b6212777e40e9aa26d3e0319019e67e3ba602
 
 - Freeze-thaw resistance
 - 
 
+Through this blog, I will try to provide a very coherent story of my work, my ideas and my findings. The next step is this journey is to define the project, therefore the next article related to this matter will be : **Porous concrete, a state of the art**.\\
 **To be continued...**
