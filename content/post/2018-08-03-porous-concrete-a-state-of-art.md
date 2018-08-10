@@ -23,8 +23,9 @@ This article contains a brief introduction about pervious concrete. This article
 
 #### A recurrent question : Why porous concrete ?
 <!-- Not as many people think, the permeable concrete is an old civil engineering material. In fact, research on this matter seriously tens of years ago. B -->
+<div style="text-align: justify">
 Urbanization led to the increasing impervious areas, which stop the infiltration of rainfall into the soil. Porous concrete can present several advantages which are: \
-
+</div>
 - Drainage of water in case of flood\\
 - Reduce the runoff volume\\
 - lower the quantities of water treatment\\
@@ -32,10 +33,11 @@ Urbanization led to the increasing impervious areas, which stop the infiltration
 - Reduce vehicles noise.
 
 #### Pervious concrete composition
+<div style="text-align: justify"> 
 This type of concrete is very similar to the normal concrete, the main difference is that PC contains little or no fine aggregate.\\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\\
 Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.
-
+</div>
 <!--
 #### Pervious concrete durability challenges
 
