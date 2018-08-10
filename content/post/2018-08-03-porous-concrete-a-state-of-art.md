@@ -35,7 +35,7 @@ Urbanization led to the increasing impervious areas, which stop the infiltration
 #### Pervious concrete composition
 This type of concrete is very similar to the normal concrete, the main difference is that PC contains little or no fine aggregate.\\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\\
-Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\\
+Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.
 
 <!--
 #### Pervious concrete durability challenges
