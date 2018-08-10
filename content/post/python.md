@@ -4,7 +4,7 @@ subtitle: The language of the future
 date: '2018-08-02T22:56:18+02:00'
 tags: []
 ---
-A perfect way to solve a wide viriety of problems.
+
 <!--more-->
 
 Solving a variety types of problems using Python :
@@ -19,9 +19,9 @@ r=0
 for i in range(1000):
     if i % 5 ==0 or i % 7 == 0:
         print(i)
-        
+
         r+=i
-        
+
 print(r)
 
 ```
@@ -32,7 +32,7 @@ The result is 233168.
 Many method exists to simple or complex equation in python. The Sympy library is one of many possible ways to solve an equation. Lets solve the equation that follows for x.
 
 $$
-x^2-100=0
+x^2+x+1=0
 $$
 
 ```python
@@ -62,7 +62,7 @@ year=[1950,1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2016
 population = [8985989,10502666,12328532,14229044,16000008,17803698,20019847,22537376,24879136,27075232,28849621,30521070,32409639,34803322,35276786,	35739580,36191805]
 
 plt.xlabel('Year')
-plt.ylabel('Population')
+plt.ylabel('Population ()')
 plt.title('Evolution of population in Morocco')
 plt.plot(year,population)
 
@@ -75,10 +75,3 @@ plt.plot(year,population)
 Figure 1: Population of Morocco through the years.
 </p>
 </div>
-
-
-#### Linear algebra:
-
-
-
-
