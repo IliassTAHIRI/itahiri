@@ -4,7 +4,7 @@ subtitle: The language of the future
 date: '2018-08-02T22:56:18+02:00'
 tags: []
 ---
-
+A perfect way to solve a wide viriety of problems.
 <!--more-->
 
 Solving a variety types of problems using Python :
@@ -32,7 +32,7 @@ The result is 233168.
 Many method exists to simple or complex equation in python. The Sympy library is one of many possible ways to solve an equation. Lets solve the equation that follows for x.
 
 $$
-x^2+x+1=0
+x^2-100=0
 $$
 
 ```python
@@ -75,3 +75,10 @@ plt.plot(year,population)
 Figure 1: Population of Morocco through the years.
 </p>
 </div>
+
+
+#### Linear algebra:
+
+
+
+
