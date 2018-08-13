@@ -7,6 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 ---
+The aim of this article is to understand the energy mix in morocco by using the data provided by World Development Indicators dataset from the World Bank.
 <!--more-->
 
 The aim of this article is to understand the energy mix in morocco by using the data provided by World Development Indicators dataset from the World Bank. The data contains many important indicators and their variation through the years. Few of this indicators are :
