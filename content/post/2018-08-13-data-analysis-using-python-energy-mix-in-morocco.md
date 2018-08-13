@@ -1,11 +1,11 @@
 ---
-title: Data analysis using Python - Energy mix in Morocco
+title: Data analysis using Python
 author: Iliass TAHIRI
 date: '2018-08-13'
 slug: data-analysis-using-python-energy-mix-in-morocco
 categories: []
 tags: []
-subtitle: ''
+subtitle: 'Data analysis using Python - Energy mix in Morocco'
 ---
 The aim of this article is to understand the energy mix in morocco by using the data provided by World Development Indicators dataset from the World Bank.
 <!--more-->
