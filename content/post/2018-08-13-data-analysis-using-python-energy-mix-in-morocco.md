@@ -12,9 +12,9 @@ The aim of this article is to understand the energy mix in morocco by using the 
 
 The aim of this article is to understand the energy mix in morocco by using the data provided by World Development Indicators dataset from the World Bank. The data contains many important indicators and their variation through the years. Few of this indicators are :
 
-- Teachers in primary education, both sexes (number) --> Code : SE.PRM.TCHR
-- CO2 emissions (kt)                                 --> Code : EN.ATM.CO2E.KT
-- Life expectancy at birth, female (years)           --> Code : SP.DYN.LE00.FE.IN
+- Teachers in primary education, both sexes (number): SE.PRM.TCHR
+- CO2 emissions (kt): EN.ATM.CO2E.KT
+- Life expectancy at birth, female (years) : SP.DYN.LE00.FE.IN
 
 Many are other indicators can be found in the dataset that are related to economy, health, education... In the next articles I will try to explore more in details this dataset.
 
@@ -79,13 +79,10 @@ fill_between(df_hydro.Year,df_hydro.Value,0,alpha=0.3, color='red')
 fill_between(df_nucl.Year,df_nucl.Value,0,alpha=0.3)
 fill_between(df_rnwx.Year,df_rnwx.Value,0,alpha=0.3)
 
-
-
 plt.legend(loc=2, borderaxespad=1.,prop={'size': 20})
 plt.xlabel('Years',  fontsize=25)
 plt.ylabel('% of Total Energy Produce',  fontsize=25)
 plt.title('Energy Mix in the Morocco (1971-2012)', fontsize=25)
-
 
 fig.savefig('energy_mix.svg',format='svg')
 ```
@@ -99,4 +96,4 @@ Figure 1: Energy mix in Morocco between (1975-2012).
 
 ### Analysis
 
-We observe that the kingdom of Morocco produce the majority of his energy from Fossil fuels. The country doesn't have any oil/gas reserve, subsequently, all the fossil fuel is imported from other producing counties. Efforts are being made to make a transition to renewable energy, but as we can observe the kingdom still have a long way ahead.
+We observe that the kingdom of Morocco produce the majority of his energy from Fossil fuels. The country doesn't have any oil/gas reserves, subsequently, all the fossil fuel is imported from other producing counties. Efforts are being made to make a transition to renewable energy, but as we can observe the kingdom still have a long way ahead.

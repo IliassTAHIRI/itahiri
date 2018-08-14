@@ -8,9 +8,9 @@
   <title>Data analysis using Python</title>
   <meta property="og:title" content="Data analysis using Python" />
   <meta name="twitter:title" content="Data analysis using Python" />
-  <meta name="description" content="Data analysis using Python - Energy mix in Morocco">
-  <meta property="og:description" content="Data analysis using Python - Energy mix in Morocco">
-  <meta name="twitter:description" content="Data analysis using Python - Energy mix in Morocco">
+  <meta name="description" content="Energy mix in Morocco">
+  <meta property="og:description" content="Energy mix in Morocco">
+  <meta name="twitter:description" content="Energy mix in Morocco">
   <meta name="author" content="Iliass TAHIRI"/>
   <link href='/img/logo.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="/img/logo.png" />
@@ -179,7 +179,7 @@
               <h1>Data analysis using Python</h1>
                 
                   
-                    <h2 class="post-subheading">Data analysis using Python - Energy mix in Morocco</h2>
+                    <h2 class="post-subheading">Energy mix in Morocco</h2>
                   
                 
                 
@@ -190,7 +190,7 @@
   
   
   &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 2 minutes (378 words)
+  <i class="fa fa-clock-o"></i> 2 minutes (370 words)
   
   
 </span>
@@ -216,9 +216,9 @@
 <p>The aim of this article is to understand the energy mix in morocco by using the data provided by World Development Indicators dataset from the World Bank. The data contains many important indicators and their variation through the years. Few of this indicators are :</p>
 
 <ul>
-<li>Teachers in primary education, both sexes (number) &ndash;&gt; Code : SE.PRM.TCHR</li>
-<li>CO2 emissions (kt)                                 &ndash;&gt; Code : EN.ATM.CO2E.KT</li>
-<li>Life expectancy at birth, female (years)           &ndash;&gt; Code : SP.DYN.LE00.FE.IN</li>
+<li>Teachers in primary education, both sexes (number): SE.PRM.TCHR</li>
+<li>CO2 emissions (kt): EN.ATM.CO2E.KT</li>
+<li>Life expectancy at birth, female (years) : SP.DYN.LE00.FE.IN</li>
 </ul>
 
 <p>Many are other indicators can be found in the dataset that are related to economy, health, education&hellip; In the next articles I will try to explore more in details this dataset.</p>
@@ -272,13 +272,10 @@
 <span class="n">fill_between</span><span class="p">(</span><span class="n">df_nucl</span><span class="o">.</span><span class="n">Year</span><span class="p">,</span><span class="n">df_nucl</span><span class="o">.</span><span class="n">Value</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
 <span class="n">fill_between</span><span class="p">(</span><span class="n">df_rnwx</span><span class="o">.</span><span class="n">Year</span><span class="p">,</span><span class="n">df_rnwx</span><span class="o">.</span><span class="n">Value</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
 
-
-
 <span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">borderaxespad</span><span class="o">=</span><span class="mf">1.</span><span class="p">,</span><span class="n">prop</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;size&#39;</span><span class="p">:</span> <span class="mi">20</span><span class="p">})</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Years&#39;</span><span class="p">,</span>  <span class="n">fontsize</span><span class="o">=</span><span class="mi">25</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;</span><span class="si">% o</span><span class="s1">f Total Energy Produce&#39;</span><span class="p">,</span>  <span class="n">fontsize</span><span class="o">=</span><span class="mi">25</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Energy Mix in the Morocco (1971-2012)&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">25</span><span class="p">)</span>
-
 
 <span class="n">fig</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s1">&#39;energy_mix.svg&#39;</span><span class="p">,</span><span class="n">format</span><span class="o">=</span><span class="s1">&#39;svg&#39;</span><span class="p">)</span></code></pre></div>
 <div class="figure"><span id="fig:pie"></span>
@@ -290,7 +287,7 @@ Figure 1: Energy mix in Morocco between (1975-2012).
 
 <h3 id="analysis">Analysis</h3>
 
-<p>We observe that the kingdom of Morocco produce the majority of his energy from Fossil fuels. The country doesn&rsquo;t have any oil/gas reserve, subsequently, all the fossil fuel is imported from other producing counties. Efforts are being made to make a transition to renewable energy, but as we can observe the kingdom still have a long way ahead.</p>
+<p>We observe that the kingdom of Morocco produce the majority of his energy from Fossil fuels. The country doesn&rsquo;t have any oil/gas reserves, subsequently, all the fossil fuel is imported from other producing counties. Efforts are being made to make a transition to renewable energy, but as we can observe the kingdom still have a long way ahead.</p>
 
         
 
