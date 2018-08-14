@@ -86,7 +86,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     parent = "Pages"
     name = "Gallery"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "page/gallery/"
     weight = 1
 
 [[menu.main]]

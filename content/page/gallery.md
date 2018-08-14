@@ -1,6 +1,6 @@
 ---
-title: Photoswipe Gallery Samples
-subtitle: Making a Gallery
+title: Photography - Gallery
+subtitle: Making art
 date: 2017-03-20
 tags: ["example", "photoswipe"]
 ---
@@ -9,20 +9,21 @@ Beautifuld Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
   {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
   {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
 {{< /gallery >}}
 
 <!--more-->
-## Example
+## Paris
 The above gallery was created using the following shortcodes:
-```
-{{</* gallery caption-effect="fade" */>}}
-  {{</* figure thumb="-thumb" link="/img/hexagon.jpg" */>}}
-  {{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
-  {{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
-{{</* /gallery */>}}
-```
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
+  {{< figure thumb="-thumb" link="/img/img1.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
+{{< /gallery >}}
 
 ## Usage
 For full details please see the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) page. Basic usages from above are:

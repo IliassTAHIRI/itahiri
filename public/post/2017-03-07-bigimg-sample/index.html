@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Big Image Sample</title>
-  <meta property="og:title" content="Big Image Sample" />
-  <meta name="twitter:title" content="Big Image Sample" />
-  <meta name="description" content="Using Multiple Images">
-  <meta property="og:description" content="Using Multiple Images">
-  <meta name="twitter:description" content="Using Multiple Images">
+  <title>Photoswipe Gallery Sample</title>
+  <meta property="og:title" content="Photoswipe Gallery Sample" />
+  <meta name="twitter:title" content="Photoswipe Gallery Sample" />
+  <meta name="description" content="Making a Gallery">
+  <meta property="og:description" content="Making a Gallery">
+  <meta name="twitter:description" content="Making a Gallery">
   <meta name="author" content="Iliass TAHIRI"/>
   <link href='/img/logo.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="/img/avatar-icon.png" />
@@ -18,12 +18,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@username" />
   <meta name="twitter:creator" content="@username" />
-  <meta property="og:url" content="/post/2017-03-07-bigimg-sample/" />
+  <meta property="og:url" content="/post/2017-03-20-photoswipe-gallery-sample/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Iliass&#39;s blog" />
 
   <meta name="generator" content="Hugo 0.46" />
-  <link rel="canonical" href="/post/2017-03-07-bigimg-sample/" />
+  <link rel="canonical" href="/post/2017-03-20-photoswipe-gallery-sample/" />
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Iliass&#39;s blog">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -167,44 +167,8 @@
 
 
 
-    <div id="header-big-imgs" data-num-img=3 data-img-src-1="/img/triangle.jpg" data-img-desc-1="Triangle"data-img-src-2="/img/sphere.jpg" data-img-desc-2="Sphere"data-img-src-3="/img/hexagon.jpg" data-img-desc-3="Hexagon"></div>
 
-
-  <header class="header-section has-img">
-
-      <div class="intro-header big-img">
-
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="post-heading">
-                <h1>Big Image Sample</h1>
-
-
-                      <h2 class="post-subheading">Using Multiple Images</h2>
-
-
-
-                    <span class="post-meta">
-
-
-  <i class="fa fa-calendar-o"></i>&nbsp;Posted on March 7, 7038
-
-
-  &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 1 minutes (191 words)
-
-
-</span>
-
-
-
-              </div>
-            </div>
-          </div>
-        </div>
-        <span class="img-desc" style="display: inline;"></span>
-      </div>
+  <header class="header-section ">
 
     <div class="intro-header no-img">
 
@@ -212,21 +176,21 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
-              <h1>Big Image Sample</h1>
+              <h1>Photoswipe Gallery Sample</h1>
 
 
-                    <h2 class="post-subheading">Using Multiple Images</h2>
+                    <h2 class="post-subheading">Making a Gallery</h2>
 
 
 
                   <span class="post-meta">
 
 
-  <i class="fa fa-calendar-o"></i>&nbsp;Posted on March 7, 7038
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on March 20, 20038
 
 
   &nbsp;|&nbsp;
-  <i class="fa fa-clock-o"></i> 1 minutes (191 words)
+  <i class="fa fa-clock-o"></i> 2 minutes (215 words)
 
 
 </span>
@@ -246,33 +210,122 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>The image banners at the top of the page are refered to as &ldquo;bigimg&rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.</p>
+        <p>Beautiful Hugo adds a few custom shortcodes created by <a href="https://www.liwen.id.au/heg/">Li-Wen Yip</a> and <a href="https://github.com/GjjvdBurg/HugoPhotoSwipe">Gert-Jan van den Berg</a> for making galleries with <a href="http://photoswipe.com">PhotoSwipe</a> .</p>
+
+
+
+<div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/hexagon-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/hexagon-thumb.jpg" />
+    </div>
+    <a href="/img/hexagon.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/sphere-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/sphere-thumb.jpg" alt="Sphere"/>
+    </div>
+      <figcaption>
+          <p>Sphere</p>
+      </figcaption>
+    <a href="/img/sphere.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/sphere-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/sphere-thumb.jpg" alt="Sphere"/>
+    </div>
+      <figcaption>
+          <p>Sphere</p>
+      </figcaption>
+    <a href="/img/sphere.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/triangle-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
+    </div>
+      <figcaption>
+          <p>Triangle</p>
+      </figcaption>
+    <a href="/img/triangle.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/sphere-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/sphere-thumb.jpg" alt="Sphere"/>
+    </div>
+      <figcaption>
+          <p>Sphere</p>
+      </figcaption>
+    <a href="/img/sphere.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img" style="background-image: url('/img/triangle-thumb.jpg');">
+      <img itemprop="thumbnail" src="/img/triangle-thumb.jpg" alt="This is a long comment about a triangle"/>
+    </div>
+      <figcaption>
+          <p>Triangle</p>
+      </figcaption>
+    <a href="/img/triangle.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+</div>
 
 <p></p>
 
-<p>A single bigimg can be specified in the front matter by the following YAML:</p>
-<div class="highlight"><pre class="chroma">bigimg: [{src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;}]</pre></div>
-<p>Multiple bigimgs can be specified in the front matter by the following YAML:</p>
-<div class="highlight"><pre class="chroma">bigimg: [{src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;},
-         {src: &#34;/img/sphere.jpg&#34;, desc: &#34;Sphere&#34;},
-         {src: &#34;/img/hexagon.jpg&#34;, desc: &#34;Hexagon&#34;}]</pre></div>
-<p>Also note that the description field is optional, and images could instead be specified by:</p>
-<div class="highlight"><pre class="chroma">bigimg: [{src: &#34;/img/triangle.jpg&#34;},
-         {src: &#34;/img/sphere.jpg&#34;},
-         {src: &#34;/img/hexagon.jpg&#34;}]</pre></div>
-<p>The above YAML array of hashes were written in &ldquo;flow&rdquo; style. However when generating a new page or post with <code>hugo new post/mypost.md</code>, hugo may interpret the archetype for bigimg in the default YAML style. Defining multiple bigimg&rsquo;s complete with descriptions in this style would be specified by:</p>
-<div class="highlight"><pre class="chroma">bigimg:
-- {src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;}
-- {src: &#34;/img/sphere.jpg&#34;, desc: &#34;Sphere&#34;}
-- {src: &#34;/img/hexagon.jpg&#34;, desc: &#34;Hexagon&#34;}</pre></div>
-<p>Additional information can be found <a href="https://rhnh.net/2011/01/31/yaml-tutorial/">in this YAML tutorial</a>.</p>
+<h2 id="example">Example</h2>
+
+<p>The above gallery was created using the following shortcodes:</p>
+<div class="highlight"><pre class="chroma">{{&lt; gallery caption-effect=&#34;fade&#34; &gt;}}
+  {{&lt; figure thumb=&#34;-thumb&#34; link=&#34;/img/hexagon.jpg&#34; &gt;}}
+  {{&lt; figure thumb=&#34;-thumb&#34; link=&#34;/img/sphere.jpg&#34; caption=&#34;Sphere&#34; &gt;}}
+  {{&lt; figure thumb=&#34;-thumb&#34; link=&#34;/img/triangle.jpg&#34; caption=&#34;Triangle&#34; alt=&#34;This is a long comment about a triangle&#34; &gt;}}
+{{&lt; /gallery &gt;}}</pre></div>
+<h2 id="usage">Usage</h2>
+
+<p>For full details please see the <a href="https://github.com/liwenyip/hugo-easy-gallery/">hugo-easy-gallery GitHub</a> page. Basic usages from above are:</p>
+
+<ul>
+<li>Create a gallery with open and close tags <code>{{&lt; gallery &gt;}}</code> and <code>{{&lt; /gallery &gt;}}</code></li>
+<li><code>{{&lt; figure src=&quot;image.jpg&quot; &gt;}}</code> will use <code>image.jpg</code> for thumbnail and lightbox</li>
+<li><code>{{&lt; figure src=&quot;thumb.jpg&quot; link=&quot;image.jpg&quot; &gt;}}</code> will use <code>thumb.jpg</code> for thumbnail and <code>image.jpg</code> for lightbox</li>
+<li><code>{{&lt; figure thumb=&quot;-small&quot; link=&quot;image.jpg&quot; &gt;}}</code> will use <code>image-small.jpg</code> for thumbnail and <code>image.jpg</code> for lightbox</li>
+<li>All the <a href="https://gohugo.io/extras/shortcodes">features/parameters</a> of Hugo&rsquo;s built-in <code>figure</code> shortcode work as normal, i.e. src, link, title, caption, class, attr (attribution), attrlink, alt</li>
+<li><code>{{&lt; gallery caption-effect=&quot;fade&quot; &gt;}}</code> will fade in captions for all figures in this gallery instead of the default slide-up behavior</li>
+<li>Many gallery styles for captions and hover effects exist; view the <a href="https://github.com/liwenyip/hugo-easy-gallery/">hugo-easy-gallery GitHub</a> for all options</li>
+<li>Note that this theme will load the photoswipe gallery theme and scripts by default, no need to load photoswipe on your individual pages</li>
+</ul>
 
 
           <div class="blog-tags">
 
               <a href="//tags/example/">example</a>&nbsp;
 
-              <a href="//tags/bigimg/">bigimg</a>&nbsp;
+              <a href="//tags/photoswipe/">photoswipe</a>&nbsp;
 
           </div>
 
@@ -285,7 +338,7 @@
 
 
 <li>
-    <a href="//twitter.com/share?url=%2fpost%2f2017-03-07-bigimg-sample%2f&amp;text=Big%20Image%20Sample&amp;via=username"
+    <a href="//twitter.com/share?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f&amp;text=Photoswipe%20Gallery%20Sample&amp;via=username"
        target="_blank" alt="" title="Share on Twitter">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -296,7 +349,7 @@
 
 
 <li>
-    <a href="//plus.google.com/share?url=%2fpost%2f2017-03-07-bigimg-sample%2f" target="_blank" title="Share on Google Plus">
+    <a href="//plus.google.com/share?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f" target="_blank" title="Share on Google Plus">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
@@ -306,7 +359,7 @@
 
 
 <li>
-    <a href="//www.facebook.com/sharer/sharer.php?u=%2fpost%2f2017-03-07-bigimg-sample%2f" target="_blank" title="Share on Facebook">
+    <a href="//www.facebook.com/sharer/sharer.php?u=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f" target="_blank" title="Share on Facebook">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -316,7 +369,7 @@
 
 
 <li>
-    <a href="//reddit.com/submit?url=%2fpost%2f2017-03-07-bigimg-sample%2f&amp;title=Big%20Image%20Sample" target="_blank" title="Share on Reddit">
+    <a href="//reddit.com/submit?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f&amp;title=Photoswipe%20Gallery%20Sample" target="_blank" title="Share on Reddit">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
@@ -326,7 +379,7 @@
 
 
 <li>
-    <a href="//www.linkedin.com/shareArticle?url=%2fpost%2f2017-03-07-bigimg-sample%2f&amp;title=Big%20Image%20Sample" target="_blank"
+    <a href="//www.linkedin.com/shareArticle?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f&amp;title=Photoswipe%20Gallery%20Sample" target="_blank"
        title="Share on LinkedIn">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -337,7 +390,7 @@
 
 
 <li>
-    <a href="//www.stumbleupon.com/submit?url=%2fpost%2f2017-03-07-bigimg-sample%2f&amp;title=Big%20Image%20Sample" target="_blank"
+    <a href="//www.stumbleupon.com/submit?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f&amp;title=Photoswipe%20Gallery%20Sample" target="_blank"
        title="Share on StumbleUpon">
         <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -348,7 +401,7 @@
 
 
 <li>
-    <a href="//www.pinterest.com/pin/create/button/?url=%2fpost%2f2017-03-07-bigimg-sample%2f&amp;description=Big%20Image%20Sample" target="_blank"
+    <a href="//www.pinterest.com/pin/create/button/?url=%2fpost%2f2017-03-20-photoswipe-gallery-sample%2f&amp;description=Photoswipe%20Gallery%20Sample" target="_blank"
        title="Share on Pinterest">
          <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -366,12 +419,12 @@
         <ul class="pager blog-pager">
 
             <li class="previous">
-              <a href="/post/2017-03-05-math-sample/" data-toggle="tooltip" data-placement="top" title="Math Sample">&larr; Previous Post</a>
+              <a href="/post/2017-03-07-bigimg-sample/" data-toggle="tooltip" data-placement="top" title="Big Image Sample">&larr; Previous Post</a>
             </li>
 
 
             <li class="next">
-              <a href="/post/2017-03-20-photoswipe-gallery-sample/" data-toggle="tooltip" data-placement="top" title="Photoswipe Gallery Sample">Next Post &rarr;</a>
+              <a href="/post/python/" data-toggle="tooltip" data-placement="top" title="Python Py">Next Post &rarr;</a>
             </li>
 
         </ul>
