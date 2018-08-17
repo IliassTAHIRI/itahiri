@@ -2,7 +2,7 @@
 title: Photography - Gallery
 subtitle: Making art
 date: 2017-03-20
-tags: ["example", "photoswipe"]
+tags: ["photoswipe", "Photography"]
 ---
 # Paris - Parigi
 
@@ -23,5 +23,4 @@ tags: ["example", "photoswipe"]
 {{< gallery >}}
 {{< figure link="/img/gal/savior-cathedral.jpg" caption="Chris the Savior cathedral" >}}
 {{< figure link="/img/gal/cathedral.jpg" caption="Capital Chorus" >}}
-
 {{< /gallery >}}

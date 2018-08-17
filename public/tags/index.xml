@@ -33,7 +33,7 @@
     <item>
       <title>Example</title>
       <link>/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/tags/example/</guid>
       <description></description>
@@ -54,6 +54,15 @@
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/tags/photography/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
+      <guid>/tags/photography/</guid>
       <description></description>
     </item>
     
