@@ -48,7 +48,7 @@ solve(x**2-100)
 Out[]: [-10, 10]
 
 ```
-\\
+\
 #### Plotting data with matplotlib:
 
 The source of data is the United Nations World Population Prospects :
@@ -75,4 +75,3 @@ plt.plot(year,population)
 Figure 1: Population of Morocco through the years.
 </p>
 </div>
-

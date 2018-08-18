@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/data-analysis-using-python-energy-mix-in-morocco/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/porous-concrete-a-state-of-art/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/post_examples/2017-03-20-photoswipe-gallery-sample/</loc>
+    <loc>/page/gallery/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,7 +84,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -105,7 +110,7 @@
   
   <url>
     <loc>/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,6 +133,12 @@
   </url>
   
   <url>
+    <loc>/tags/photography/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/photoswipe/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -141,13 +152,13 @@
   
   <url>
     <loc>/post_examples/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
