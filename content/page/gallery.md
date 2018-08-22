@@ -9,7 +9,6 @@ tags: ["photoswipe", "Photography"]
 {{< gallery >}}
 {{< figure link="/img/gal/sun.jpg" caption="Sydney Harbour" >}}
 {{< figure link="/img/gal/paris1.png" caption="Capital Chorus" >}}
-{{< figure link="/img/gal/sphere.jpg" caption="Arduino test setup" >}}
 {{< /gallery >}}
 
 # Saint-Petersburg
