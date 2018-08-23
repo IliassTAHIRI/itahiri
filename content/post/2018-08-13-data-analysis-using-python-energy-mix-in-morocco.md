@@ -94,6 +94,9 @@ Figure 1: Energy mix in Morocco between (1975-2012).
 </p>
 </div>
 
+
+
+
 ### Analysis
 
 We observe that the kingdom of Morocco produce the majority of his energy from Fossil fuels. The country doesn't have any oil/gas reserves, subsequently, all the fossil fuel is imported from other producing counties. Efforts are being made to make a transition to renewable energy, but as we can observe the kingdom still have a long way ahead.
