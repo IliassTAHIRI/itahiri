@@ -1,8 +1,10 @@
 ---
 title: Diffusion properties of coal matrix
-subtitle: 'Numerical analysis of their impact on fluid transfer in coal reservoir'
+subtitle: Numerical analysis of their impact on fluid transfer in coal reservoir
+date: 2018-09-11
 author: I. TAHIRI
-date: "2018-09-11"
+
+
 slug: diffusion-properties-of-coal-matrix-numerical-analysis-of-their-impact-on-fluid-transfer-in-coal-reservoirs
 
 categories:

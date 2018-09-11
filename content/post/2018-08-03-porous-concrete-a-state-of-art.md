@@ -1,7 +1,7 @@
 ---
 title: Porous concrete, Introduction
 author: Iliass TAHIRI
-date: '2018-08-03'
+date: 2018-08-03
 slug: porous-concrete-a-state-of-art
 categories: []
 tags: []
