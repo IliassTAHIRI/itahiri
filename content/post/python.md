@@ -1,7 +1,7 @@
 ---
 title: "Python : The language of the future "
 subtitle: The language of the future
-date: '2018-08-02T22:56:18+02:00'
+date: 2018-08-02T22:56:18+02:00
 tags: []
 ---
 

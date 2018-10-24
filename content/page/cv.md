@@ -23,7 +23,7 @@ Missions : Design and rehabilitation of underground structures.
 #### Researcher - *Laboratoire Navier & Novosibirsk State University*
 Missions : Estimation of deformation and filtration properties of coal by adsorption test data based on inverse problem solution.
 #### Civil engineer - *Department of water - Morocco* - Jan. 2015 to Sep. 2015
-Missions : Design of dams.
+Missions : Hydraulic and structural design of dams.
 ## Publications
 
 [1](https://ascelibrary.org/doi/abs/10.1061/9780784480779.034?src=recsys) *"Elastic and Filtration Properties of Coal by Adsorption Test Data Based on Inverse Problem Solution"*

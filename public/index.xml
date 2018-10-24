@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>iliass.tahiri@gmail.com (Iliass TAHIRI)</managingEditor>
     <webMaster>iliass.tahiri@gmail.com (Iliass TAHIRI)</webMaster>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diffusion properties of coal matrix</title>
+      <link>/post/diffusion-properties-of-coal-matrix-numerical-analysis-of-their-impact-on-fluid-transfer-in-coal-reservoirs/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
+      <guid>/post/diffusion-properties-of-coal-matrix-numerical-analysis-of-their-impact-on-fluid-transfer-in-coal-reservoirs/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data analysis using Python</title>
@@ -59,13 +68,12 @@ Experience Geotechnical engineer - Structure &amp;amp; Réhabilitation - Jan. 20
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/page/gallery/</guid>
-      <description>Paris - Parigi   Sydney Harbour
-     Capital Chorus
-     Arduino test setup
-    Saint-Petersburg    Peterhof Palace
+      <description>Paris - Parigi   Sunny day in Paris
+     Bridge in Paris
+    Saint-Petersburg    Peterhof Palace - Saint-Patersburg
    
 Moscou - Москва    Chris the Savior cathedral
-     Capital Chorus</description>
+     Beautiful cathedral</description>
     </item>
     
     <item>
@@ -190,7 +198,7 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
       <guid>/page/about/</guid>
-      <description>I am Iliass TAHIRI, I am a PhD student at Ecole des Ponts Paristech, specializing in materials science.Before beginning this adventure, I studied civil engineering in Mohammadia School of Engineers (EMI) in Rabat, Morocco (Graduating in 2014). After graduation, I worked as civil engineer in &amp;ldquo;Direction des Aménagements Hydrauliques (DAH)&amp;rdquo; in Rabat. My worked focus on developing and designing dams. My interest in learning pushed me to pursue a Master degree at Ecole des Ponts-Paristech called &amp;ldquo;Materiels Science for sustainable construction&amp;rdquo;.</description>
+      <description>I am Iliass TAHIRI, I am a PhD student at Ecole des Ponts Paristech, specializing in materials science. Before beginning this adventure, I studied civil engineering in Mohammadia School of Engineers (EMI) in Rabat, Morocco (Graduating in 2014). After graduation, I worked as civil engineer in &amp;ldquo;Direction des Aménagements Hydrauliques (DAH)&amp;rdquo; in Rabat. My work focus was on developing and designing dams. My interest in learning pushed me to pursue a Master degree at Ecole des Ponts-Paristech called &amp;ldquo;Materiels Science for sustainable construction&amp;rdquo;.</description>
     </item>
     
   </channel>
