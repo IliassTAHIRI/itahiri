@@ -92,14 +92,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     parent = "Pages"
     name = "Publications"
-    url = "post/2017-03-05-math-sample"
+    url = "page/publications"
     weight = 2
 
-[[menu.main]]
-    parent = "Pages"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
 
 [[menu.main]]
     name = "CV"

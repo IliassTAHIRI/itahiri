@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/publications/</loc>
+    <lastmod>2018-10-24T23:27:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/diffusion-properties-of-coal-matrix-numerical-analysis-of-their-impact-on-fluid-transfer-in-coal-reservoirs/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -89,7 +94,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T23:27:15+02:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +144,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2018-08-02T23:27:15+02:00</lastmod>
+    <lastmod>2018-10-24T23:27:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   

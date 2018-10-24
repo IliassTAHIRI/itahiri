@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>iliass.tahiri@gmail.com (Iliass TAHIRI)</managingEditor>
     <webMaster>iliass.tahiri@gmail.com (Iliass TAHIRI)</webMaster>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 23:27:15 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>/page/publications/</link>
+      <pubDate>Wed, 24 Oct 2018 23:27:15 +0200</pubDate>
+      <author>iliass.tahiri@gmail.com (Iliass TAHIRI)</author>
+      <guid>/page/publications/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Diffusion properties of coal matrix</title>
