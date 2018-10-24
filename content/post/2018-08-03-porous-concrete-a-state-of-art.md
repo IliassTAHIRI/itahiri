@@ -13,7 +13,7 @@ Pervious concrete : Introduction
 <!--more-->
 <div style="text-align: justify">  
 This article contains a brief introduction about pervious concrete. This article is motivated by the fact that in November 2018 I will begin a new challenge which is doing a PhD. My research project is **"Freeze-thaw resistance of porous concrete"**, this project is initiated by **[Laboratoire NAVIER](navier.enpc.fr)** et **Lafarge-Holcim**. The main aim of this research project is to understand the mechanisms involved in the process of damage that occurs when pervious concrete is subject to freeze-thaw cycles in saturated conditions. The main steps of this work :\
-</div>
+
 - Understand the problem at hand;\\
 - Undertake a thorough bibliographic study to asses the state of the art;\\
 - Design experiments that can lead to a significant understanding of the physical phenomena involved in the process;\\
@@ -32,24 +32,22 @@ Urbanization led to the increasing impervious areas, which stop the infiltration
 - Recharging the groundwater\\
 - Reduce vehicles noise.
 
-
-#### Pervious concrete general characteristics
-Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.
-Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.
-The porosity of pervious concrete is in the range of : 5-35%.
 #### Pervious concrete durability challenges
 
 Pervious concrete is subject to several durability challenges. The most important ones are :\
 - Freeze-thaw cycles\
 - clogging\
-- Low resistance\ 
+- Low resistance\
 
 #### Pervious concrete composition
 
 This type of concrete is very similar to the normal concrete, the main difference is that PC contains little or no fine aggregate.\
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.\
 Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.\
-
+The porosity of pervious concrete is in the range of : 5-35%.
 
 Through this blog, I will try to provide a very coherent story of my work, my ideas and my findings. The next step is this journey is to define the project, therefore the next article related to this matter will be : **Porous concrete, a state of the art**.\\
 **To be continued...**
+
+
+</div>
