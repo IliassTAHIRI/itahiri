@@ -36,7 +36,7 @@ Urbanization led to the increasing impervious areas, which stop the infiltration
 #### Pervious concrete general characteristics
 Composition : Single(mono)-sized aggregate, cement, binder, water, set retarder, viscosity modifier.
 Single-sized aggregate : The secret behind obtaining a porous concrete is the fact that the size of aggregate is the same.
-The porosity of pervious concrete is in the range of :
+The porosity of pervious concrete is in the range of : 5-35%.
 #### Pervious concrete durability challenges
 
 Pervious concrete is subject to several durability challenges. The most important ones are :\
