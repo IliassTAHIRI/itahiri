@@ -5,8 +5,6 @@ subtitle: ""
 tags: []
 ---
 
-
-
 ## Education
 
 #### *Mohammadia School of engineers*           - Master   - 2011 to 2014\
