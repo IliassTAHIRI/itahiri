@@ -11,3 +11,11 @@ subtitle: ''
 Titanic predictions
 
 <!--more-->
+
+What is Kaggle ?
+
+What is machine learning
+
+How can it be applied to Titanic
+
+Apply it to the titanic disaster
