@@ -1,5 +1,5 @@
 ---
-title: Machine leaning on the Titanic disaster -  Kaggle competition
+title: Machine leaning - Regression
 author: Iliass TAHIRI
 date: 2018-12-03
 slug: kaggle-data-science
@@ -16,7 +16,7 @@ Titanic predictions
 
 The simple way to describe Kaggle is as data science plateform.
 
-What is not: a plateform for already estalished and expert data scientists. As matter of fact, Kaggles is made for everybody, beginners will find a lot of material to learn from the best and experts will use their expertise to compete on big projects and also find job oportunities.
+What is not: a plateform for already estalished and expert data scientists. As matter of fact, Kaggle is made for everybody, beginners will find a lot of material to learn from the best and experts will use their expertise to compete on big projects and also find job oportunities.
 
 #What is machine learning
 There are two types main types of machine learning:
