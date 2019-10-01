@@ -1,6 +1,6 @@
 ---
-title: "Python : The language of the future "
-subtitle: The language of the future
+title: "Micromechanical modeling of strength"
+subtitle: Based on Cohesive Mohr-Coulomb interface effects on the strength criterion of materials with granular-based microstructure by He et al.
 date: 2018-08-02T22:56:18+02:00
 tags: []
 ---
@@ -162,10 +162,6 @@ for i in range(len(alpha_i)):
 
 ```
 
-    No handles with labels found to put in legend.
-    No handles with labels found to put in legend.
-    No handles with labels found to put in legend.
-
 
 
 ![png](output_files/output_16_1.png)
@@ -200,9 +196,6 @@ for i in range(len(alpha_i)):
     Case_delta_inf_1(h_i,p_i,alpha_i[i])
 ```
 
-    No handles with labels found to put in legend.
-    No handles with labels found to put in legend.
-    No handles with labels found to put in legend.
 
 
 
