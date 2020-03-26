@@ -1,7 +1,7 @@
 baseurl = "https://iliass.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Iliass's blog"
+title = "Iliaszzs's blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
