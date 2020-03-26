@@ -35,4 +35,6 @@ $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
 $$
 
+with $$ D=\frac{k}{RTn_0 \eta}
+
 <div>
