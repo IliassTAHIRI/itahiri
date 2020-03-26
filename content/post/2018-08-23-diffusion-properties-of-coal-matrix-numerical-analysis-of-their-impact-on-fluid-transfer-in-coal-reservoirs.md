@@ -17,7 +17,7 @@ tags: []
 <!--more-->
 
 <div style="text-align: justify">
-Enhanced coalbed methane is a technique used to improve the recovery of methane (CH4) from coalbeds. It consists in the injection of a fluid (CO2 ,N2) in a well and recover CH4 in an other well. 
+Enhanced coalbed methane is a technique used to improve the recovery of methane (CH4) from coalbeds. It consists in the injection of a fluid (CO2 ,N2) in a well and recover CH4 in an other well.
 
 <div class="figure"><span id="fig:pie"></span>
 <img src="co2inj.JPG" alt="" width="500" />
@@ -28,6 +28,8 @@ Figure : Enhaced coalbed methane recovery.
 
 However, the injection of CO2 affect the swelling properties of coal due to the adsorption process. The swelling also affect the permeability of coal, that is considered one of the most important parameters in reservoir simulations. The aim of my master thesis is to determine by inverse calculation the permeability of a coal matrix using existing experimental data. The approach consists first in solving the direct problem of flow and swelling of coal matrix using a mixes approach of numerical and analytical resolution. Second, the inverse analysis consists in minimizing the chosen cost function in order to calculate the unknown parameters.
 
-
+$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$
 
 <div>
