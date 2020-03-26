@@ -29,12 +29,14 @@ Figure : Enhaced coalbed methane recovery.
 However, the injection of CO2 affect the swelling properties of coal due to the adsorption process. The swelling also affect the permeability of coal, that is considered one of the most important parameters in reservoir simulations. The aim is to determine by inverse calculation the permeability of a coal matrix using existing experimental data. The approach consists first in solving the direct problem of flow and swelling of coal matrix using a mixes approach of numerical and analytical resolution. Second, the inverse analysis consists in minimizing the chosen cost function in order to calculate the unknown parameters.
 
 ###Direct problem of flow and swelling of coal matrix
-
+To derive the governing equation for flow of gas in the coal matrix, the mass conservation
+equation, Darcy’s law and the equation of state of the fluid are combined.
+The resulting equation governs the CO2 flow process in coal matrix with the pressure p as a primary variable.
 
 $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
 $$
 
-with $$ D=\frac{k}{RTn_0 \eta}
+with $$ D=\frac{k}{RTn_0 \eta} $$ and $$v=\frac{1}{p+p_0}$$
 
 <div>
