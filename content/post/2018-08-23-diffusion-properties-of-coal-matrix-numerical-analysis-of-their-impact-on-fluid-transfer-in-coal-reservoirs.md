@@ -37,7 +37,8 @@ $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p))
 $$
 
-with $$ D=\frac{k}{RTn_0 \eta} $$ and $$v=\frac{1}{p+p_0}$$
+with $$ D=\frac{k}{RTn_0 \eta}  and v=\frac{1}{p+p_0}$$
+
 
 For more details about the derivation of these equations please refer to: [*"Elastic and Filtration Properties of Coal by Adsorption Test Data Based on Inverse Problem Solution"*
 L. A. Nazarov, D.Sc.; L. A. Nazarova, D.Sc.; M. Vandamme, Ph.D.; J-M Pereira, Ph.D.; and I. Tahiri - Poromechanics VI](https://ascelibrary.org/doi/abs/10.1061/9780784480779.034?src=recsys), or feel free to contact me.
