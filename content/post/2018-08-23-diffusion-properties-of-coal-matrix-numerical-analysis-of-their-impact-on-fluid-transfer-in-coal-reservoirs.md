@@ -16,7 +16,7 @@ tags: []
 
 <!--more-->
 
-<div style="text-align: justify">
+
 Enhanced coalbed methane is a technique used to improve the recovery of methane (CH4) from coalbeds. It consists in the injection of a fluid (CO2 ,N2) in a well and recover CH4 in an other well.
 
 <div class="figure"><span id="fig:pie"></span>
@@ -36,6 +36,4 @@ $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
 $$
 
-with $ D=\frac{k}{RTn_0 \eta} $ and $v=\frac{1}{p+p_0}$
-
-<div>
+with $$ D=\frac{k}{RTn_0 \eta} $ and $v=\frac{1}{p+p_0}$$
