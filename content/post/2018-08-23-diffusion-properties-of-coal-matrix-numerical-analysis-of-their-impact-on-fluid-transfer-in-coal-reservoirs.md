@@ -32,12 +32,7 @@ However, the injection of CO2 affect the swelling properties of coal due to the 
 To derive the governing equation for flow of gas in the coal matrix, the mass conservation equation, Darcy’s law and the equation of state of the fluid are combined. The resulting equation governs the CO2 flow process in coal matrix with the pressure p as a primary variable.
 
 $$
-\frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
+\frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )$$
 
 
-with $$ D=\frac{k}{RTn_0 \eta}  \text{and} v=\frac{1}{p+p_0}$$
-
-
-<DIV align="justify">
-  llll
-</DIV>
+with $$ D=\frac{k}{RTn_0 \eta}   \text{and}  v=\frac{1}{p+p_0}$$
