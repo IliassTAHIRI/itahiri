@@ -70,7 +70,10 @@ pygmentsCodefencesGuessSyntax = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 contentdir    = "content"
 
-
+[[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 1
 
 [[menu.main]]
     name = "About"
