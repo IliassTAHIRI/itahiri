@@ -67,7 +67,7 @@ pygmentsCodefencesGuessSyntax = true
 #  paypal = "username"
 #  telegram = "username"
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 contentdir    = "content"
 
 [[menu.main]]
