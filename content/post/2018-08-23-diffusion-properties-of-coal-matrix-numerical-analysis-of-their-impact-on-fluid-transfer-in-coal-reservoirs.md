@@ -26,7 +26,7 @@ Figure : Enhaced coalbed methane recovery.
 </p>
 </div>
 
-
+![Example image](/img/gal/sun.jpg)
 
 However, the injection of CO2 affect the swelling properties of coal due to the adsorption process. The swelling also affect the permeability of coal, that is considered one of the most important parameters in reservoir simulations. The aim of my master thesis is to determine by inverse calculation the permeability of a coal matrix using existing experimental data. The approach consists first in solving the direct problem of flow and swelling of coal matrix using a mixes approach of numerical and analytical resolution. Second, the inverse analysis consists in minimizing the chosen cost function in order to calculate the unknown parameters.
 
