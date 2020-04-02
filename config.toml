@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
   logo = "img/logo.png"
   #favicon = "img/favicon.ico"
   favicon = "img/logo.ico"
-  dateFormat = "January 2, 2017"
+  dateFormat = "January 2, 0000"
   commit = false
   rss = true
   comments = true
@@ -67,7 +67,7 @@ pygmentsCodefencesGuessSyntax = true
 #  paypal = "username"
 #  telegram = "username"
 
-#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 contentdir    = "content"
 
 [[menu.main]]
