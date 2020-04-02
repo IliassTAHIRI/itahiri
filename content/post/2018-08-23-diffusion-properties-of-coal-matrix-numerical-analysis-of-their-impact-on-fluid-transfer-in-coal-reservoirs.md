@@ -33,9 +33,9 @@ To derive the governing equation for flow of gas in the coal matrix, the mass co
 
 $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
-$$
 
-with $$ D=\frac{k}{RTn_0 \eta} $$ and $$v=\frac{1}{p+p_0}$$
+
+with $$ D=\frac{k}{RTn_0 \eta}  \text{and} v=\frac{1}{p+p_0}$$
 
 
 <DIV align="justify">

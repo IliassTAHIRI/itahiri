@@ -10,21 +10,17 @@ subtitle: ''
 
 <!--more-->
 
-#What data come from ?
+# What data come from ?
 Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) provide a useful data repository hosted on Github. To construct and update this database, JHU CSSE collect everyday informations from WHO, China CDC, US CDC, European Centre for Disease Prevention and Control (ECDC) and other more. They also provide a visual dashboard based on their collected data.
 
-#Data exploration
+# Data exploration
 
 The dataset provided by JHU CSSE begins from 22/01/2020 and updated on a daily basis.
 
 
-#Data exploration
+# Data exploration
 
-```python
-#import important libraries
-import matplotlib as plt
-import pandas as pd
-```
+
 
 ```python
 #import train and test CSV files
