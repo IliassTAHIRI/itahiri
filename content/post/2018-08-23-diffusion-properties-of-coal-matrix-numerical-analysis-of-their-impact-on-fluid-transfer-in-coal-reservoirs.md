@@ -36,9 +36,9 @@ $$
 \frac{\partial v*p}{\partial t}=D \nabla \cdot  (p(\nabla p) )
 $$
 
-with $$ D=\frac{k}{RTn_0 \eta} $ and $v=\frac{1}{p+p_0}$$
+with $$ D=\frac{k}{RTn_0 \eta} $$ and $$v=\frac{1}{p+p_0}$$
 
 
 <DIV align="justify">
-  llll 
+  llll
 </DIV>
