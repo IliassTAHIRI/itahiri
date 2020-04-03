@@ -56,7 +56,7 @@ $$
 
 
 $$
-\frac{\mathrm{d}R }{\mathrm{d} t} = \gammaI
+\frac{\mathrm{d}R }{\mathrm{d} t} = \gamma I
 $$
 
 With:
