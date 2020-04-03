@@ -31,5 +31,5 @@ df_deaths = pd.read_csv(link_deaths)
 ```
 
 
-![Enhaced coalbed methane recovery](img/Cases.pdf)
-![Enhaced coalbed methane recovery](img/Fatalities.pdf)
+![Enhaced coalbed methane recovery](/img/Cases.pdf)
+![Enhaced coalbed methane recovery](/img/Fatalities.pdf)
