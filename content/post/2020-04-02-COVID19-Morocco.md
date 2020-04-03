@@ -50,8 +50,9 @@ $$
 \frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N}
 $$
 
+
 $$
-\frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N}
+\frac{\mathrm{d}I }{\mathrm{d} t} = \frac{\beta S I}{N} -\gamma I
 $$
 
 
