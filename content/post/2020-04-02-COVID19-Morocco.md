@@ -27,7 +27,6 @@ confirmed_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COV
 deaths_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
 recoveries_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv')
 latest_data = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-02-2020.csv')
-
 ```
 
 
@@ -39,6 +38,12 @@ latest_data = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVI
 ![Deaths in Morocco from COVID-19](/img/Fatalities.jpg)
 
 
-## Deaths and recoveries_df
+## Deaths and recoveries
 
 ![Deaths and recoveries in Morocco from COVID-19](/img/Fatalities_recov.jpg)
+
+## The SIR epidemic model
+
+The SIR epidemic model can predict the spread of an epedimic spread in a fixed population. The equations describing this spread were derived by Kermack and McKendrick []. Their model is composed of three differencial equations:
+
+$$ \frac{\mathrm{d}S }{\mathrm{d} x} = -\frac{\beta S I}{N} $$ 
