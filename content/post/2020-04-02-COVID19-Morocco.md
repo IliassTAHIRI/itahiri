@@ -23,13 +23,17 @@ The dataset provided by JHU CSSE begins from 22/01/2020 and updated on a daily b
 
 
 ```python
-#import train and test CSV files
-link_confirmed_cases='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-link_deaths='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv'
-df_confirmed_cases = pd.read_csv(link_confirmed_cases)
-df_deaths = pd.read_csv(link_deaths)
+confirmed_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')
+deaths_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
+recoveries_df = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv')
+latest_data = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-02-2020.csv')
+
 ```
 
 
-![Enhaced coalbed methane recovery](/img/Cases.jpg)
-![Enhaced coalbed methane recovery](/img/Fatalities.jpg)
+## Total confirmed cases
+![Recoveries in Morocco from COVID-19](/img/Cases.jpg)
+
+## Deaths
+
+![Deaths in Morocco from COVID-19](/img/Fatalities.jpg)
