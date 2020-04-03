@@ -48,6 +48,10 @@ The SIR epidemic model can predict the spread of an epedimic spread in a fixed p
 
 $$ \frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N} $$
 
-$$ \frac{\mathrm{d}I }{\mathrm{d} t} = -\frac{\beta S I}{N} $$
+$$ \frac{\mathrm{d}I }{\mathrm{d} t} = \frac{\beta S I}{N} -\gammaI $$
 
-$$ \frac{\mathrm{d}R }{\mathrm{d} t} = -\frac{\beta S I}{N} $$
+$$ \frac{\mathrm{d}R }{\mathrm{d} t} = \gammaI $$
+
+With S(t) is the number of population susceptible to be infected\
+I(t) is the number of population infected\
+R(t) is the number of population recovered and now immune to the disease
