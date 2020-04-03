@@ -29,3 +29,7 @@ link_deaths='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/cs
 df_confirmed_cases = pd.read_csv(link_confirmed_cases)
 df_deaths = pd.read_csv(link_deaths)
 ```
+
+
+![Enhaced coalbed methane recovery](img/Cases.pdf)
+![Enhaced coalbed methane recovery](img/Fatalities.pdf)
