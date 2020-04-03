@@ -46,4 +46,4 @@ latest_data = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVI
 
 The SIR epidemic model can predict the spread of an epedimic spread in a fixed population. The equations describing this spread were derived by Kermack and McKendrick []. Their model is composed of three differencial equations:
 
-$$ \frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N} $$ 
+$$ \frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N} $$
