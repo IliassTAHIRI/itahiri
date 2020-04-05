@@ -50,17 +50,20 @@ $$
 \frac{\mathrm{d}S }{\mathrm{d} t} = -\frac{\beta S I}{N}
 $$
 
-
 $$
 \frac{\mathrm{d}I }{\mathrm{d} t} = \frac{\beta S I}{N} -\gamma I
 $$
-
 
 $$
 \frac{\mathrm{d}R }{\mathrm{d} t} = \gamma I
 $$
 
-With:
+With:\
 S(t) is the number of population susceptible to be infected\
 I(t) is the number of population infected\
 R(t) is the number of population recovered and now immune to the disease
+
+
+I will not present the technicalities to solve this equation in this post, but you can find plenty of codes available to solve this problem. Nevertheless here is a useful link: [SIR](https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/).
+
+/## Fitting the SIR epidemic model to the Moroccan epidemic curve
