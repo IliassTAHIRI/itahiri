@@ -87,6 +87,10 @@ plt.title('Energy Mix in the Morocco (1971-2012)', fontsize=25)
 fig.savefig('energy_mix.svg',format='svg')
 ```
 
+<p align="center">
+<img src="energy_mix.png">
+</p>
+
 <div class="figure"><span id="fig:pie"></span>
 <img src="energy_mix.png" alt="" width="750" />
 <p class="caption">
